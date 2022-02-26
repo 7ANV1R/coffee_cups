@@ -2,5 +2,6 @@
 
 ##Lottie animation practice Project
 
-Screenshot: 
-![Screenshot_1645875438](https://user-images.githubusercontent.com/35481593/155841713-5ecbe570-b7a0-4fe7-bf9f-8a35a85f28fa.png)
+__________________________________________________________________ 
+
+![ezgif-2-b980a6df1c](https://user-images.githubusercontent.com/35481593/155841895-3dac5bdf-b6be-4149-b537-eae141f477b9.gif)
